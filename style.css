@@ -27,10 +27,12 @@ nav > h1 {
   font-size: 12px;
   letter-spacing: 0.2em;
   font-family: var(--overpass);
+  padding-left: 0.5rem;
 }
 
 nav > span {
   font-size: 24px;
+  padding-right: 0.5rem;
 }
 
 #cards {
