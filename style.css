@@ -47,6 +47,7 @@ nav > span {
   border: 1px solid var(--secondary-color);
   position: relative;
   padding: 40px;
+  height: 350px;
 }
 .button-wrapper {
   max-width: 400px;
